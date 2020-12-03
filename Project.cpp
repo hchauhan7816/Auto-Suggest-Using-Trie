@@ -133,5 +133,6 @@ int main(){
             IsHavingSuggestion(s);
         }
 	}
+
 	return 0;
 }
